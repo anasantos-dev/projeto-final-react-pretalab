@@ -8,7 +8,7 @@ const list = [
     id: 1,
     nome: 'Joga Junto | Carrefour',
     descricao: 'Formação em Quality Assuranc',
-    imagem: 'https://scontent.fbel15-1.fna.fbcdn.net/v/t39.30808-6/318717749_5719530758102243_5890316622243735856_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGXUKysRqDMras7YFZxe8sWUgQnkCX5LENSBCeQJfksQ_7y_ZT0pDlbJyzzAlHTd1D7ri74pZg18-AICwZKF0Qt&_nc_ohc=UX6CeKuih60AX8ZFdrp&_nc_ht=scontent.fbel15-1.fna&oh=00_AfDOs8u2D9nIj6_1zLmAHXOnT5GScNtST32FsUREa_6yiA&oe=6397C600',
+    imagem: 'https://camo.githubusercontent.com/9446e54ff7f66f2f83ac63e06ba0372f62703c9db226f8821655745d5b829108/68747470733a2f2f692e696d6775722e636f6d2f434e6e494571422e706e67',
 
   },
   {
