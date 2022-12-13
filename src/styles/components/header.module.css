@@ -5,15 +5,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 4rem;
+    gap: 5rem;
   }
   
-  .headerTitle {
-    color: #fff;
-    font-size: 4rem;
     
-  }
-  
   .headerImage {
     width: 30%;
   }
