@@ -8,27 +8,27 @@ const list = [
     id: 1,
     nome: 'Joga Junto | Carrefour',
     descricao: 'Formação em Quality Assuranc',
-    imagem: 'https://camo.githubusercontent.com/9446e54ff7f66f2f83ac63e06ba0372f62703c9db226f8821655745d5b829108/68747470733a2f2f692e696d6775722e636f6d2f434e6e494571422e706e67',
+    imagem: 'https://camo.githubusercontent.com/49ea82d6251dbfa19aff784c08ce5fad1624dacb1379dddb628ba7d483c54a19/68747470733a2f2f692e696d6775722e636f6d2f466d4e785846502e6a7067',
 
   },
   {
     id: 2,
     nome: 'SCM | Manas Digitais',
     descricao: 'Women In Tech , Capacitação em QA',
-    imagem: 'https://scontent.fbel15-1.fna.fbcdn.net/v/t39.30808-6/318649952_5719726978082621_771953614842205521_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFlZYqfyHNWhzsCLOdvQ-UrPGQL-WZOb7I8ZAv5Zk5vsjvNhx_ol5qKTvEZF-8BH8tnYuow3vd_623PoUDklZeG&_nc_ohc=BHVqUk3ZaoMAX91LtqQ&_nc_ht=scontent.fbel15-1.fna&oh=00_AfBfC88aLs97pr1il-kppZXTTG-Q_Lgdra5JGPI9xkYtCw&oe=63976AFD',
+    imagem: 'https://camo.githubusercontent.com/345604376be47db98b5a6f2b04fc91c8b855bd113dcb2a4b070aefff14ce0325/68747470733a2f2f692e696d6775722e636f6d2f4f4975525445492e6a7067',
   },
   {
     id: 3,
     nome: '{Reprograma}',
     descricao: 'HTML, CSS, Lógica de programação e JS',
-    imagem: 'https://scontent.fbel15-1.fna.fbcdn.net/v/t39.30808-6/319224555_5719450548110264_5845552035734317214_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFPw60XvuBSfoF788ODCGTg6cxqsZ9EeqfpzGqxn0R6p-TX3RqicJmWZhb7EWRqN4-aZ0z9jdgaG4eqr86-KUKv&_nc_ohc=sIB_JrB-v5wAX_v--2H&tn=scmbjLJ49EdJRlMP&_nc_ht=scontent.fbel15-1.fna&oh=00_AfCu091LBCaUHSeQeMYCv5bMmajl2bTaOqiDyrrJZzQ5Xg&oe=6396E4E1',
+    imagem: 'https://camo.githubusercontent.com/de79e077ebd537effd474eab93d6e5e151e96c80b443184084c7631e8c12e3f6/68747470733a2f2f692e696d6775722e636f6d2f4741394a73614c2e6a7067',
 
   },
   {
     id: 4,
     nome: 'Rocketseat | DoWhile',
     descricao: 'Ecossistema de tecnologia ',
-    imagem: 'https://scontent.fbel15-1.fna.fbcdn.net/v/t39.30808-6/318124590_5719495371439115_4245195568270517354_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFbWqaTC9C886172w970def00cl852upm7TRyXzna6mblqaLPXkZ5n5c4KilAHkeUg2LQ-AWskj-bjuObwKFrMO&_nc_ohc=XY9_eUVGhw8AX-pg3g8&_nc_oc=AQk6ZWRLoCj1385WtAGfNkNel4UNm6sop4GinufozAGQwXPeWd5HfYP8M0gHMnf-oWU&_nc_ht=scontent.fbel15-1.fna&oh=00_AfDizclOjus2RiSPUeCMlrcddIPRg382UWG7ZZaiykd7Lw&oe=6397C448',
+    imagem: 'https://camo.githubusercontent.com/b6ac0ed1235774d5f626cbeee7a8e2616c75909843cff0aac01f1b8155f3b553/68747470733a2f2f692e696d6775722e636f6d2f767157465956322e6a7067',
 
   }
   
