@@ -12,7 +12,7 @@ export function Menu() {
         <Link className={styles.menuLink} to="/sobre">Sobre</Link>
       </li>
       <li className={styles.menuItem}>
-        <Link className={styles.menuLink} to="/portfolio">Portfolio</Link>
+        <Link className={styles.menuLink} to="/portfolio">Portfólio</Link>
       </li>
       <li className={styles.menuItem}>
         <Link className={styles.menuLink} to="/contato">Contato</Link>

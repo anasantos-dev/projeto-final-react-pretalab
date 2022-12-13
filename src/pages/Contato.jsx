@@ -70,6 +70,11 @@ export function Contato() {
           value={mensagem} 
           />
           <button className={styles.formButton} type="submit">Enviar mensagem</button>
+
+<br></br>
+                    
+          <h4>Visite meu linkedin clicando <a href="https://www.linkedin.com/in/claudia-santos-1560a4230/" target="_blank"  class="links">aqui</a></h4> 
+
         </form>
       </div>
     </>

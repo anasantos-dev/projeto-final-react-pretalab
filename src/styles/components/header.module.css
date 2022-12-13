@@ -7,10 +7,14 @@
     align-items: center;
     gap: 5rem;
   }
+  .headerTitle {
+    color: #0c19cf;
+    font-size: 4rem;
+  }
   
     
   .headerImage {
-    width: 30%;
+    width: 28%;
   }
   
   @media(max-width: 765px) {
