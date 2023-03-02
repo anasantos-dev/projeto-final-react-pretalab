@@ -12,10 +12,11 @@ export function Sobre() {
       <div className={styles.sobreContainer}>
       <div className={styles.bioContainer}>
           <h2 className={styles.bioTitle}>Olá! <p></p>Me chamo Ana Santos,</h2>
-          <p className={styles.bioText}> Sou paraense, com formação em Serviço Social, muito detalhista e
-            amante da natureza. Observando os constantes avanços tecnológicos, decidi migrar de carreira. 
-            Atualmente me dedico a adquirir conhecimentos na área da tecnologia, para atuar no mercado como DEV | QA.
-            Para o fututo, pretendo unir minha formação na Área Social com a tecnológica, formar parcerias e compartilhar o conhecimento adquirido com os menos favorecidos.</p>
+          <h1><p className={styles.bioText}> Sou paraense, com formação em Serviço Social, muito detalhista, amante da natureza e de esportes. 
+            A tecnologia sempre aguçou minha curiosidade, decidi então migrar de carreira e me 
+            dedicar a adquirir conhecimentos na área tecnologica, para atuar no mercado como DEV | QA.
+            Para o fututo, pretendo unir minha formação na Área Social com a tecnológica, formar parcerias e compartilhar 
+            o conhecimento adquirido com os menos favorecidos.</p></h1>
         </div>
       </div>
 </>

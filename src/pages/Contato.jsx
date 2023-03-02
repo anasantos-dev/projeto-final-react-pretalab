@@ -73,7 +73,7 @@ export function Contato() {
 
 <br></br>
                     
-          <h4>Visite meu linkedin clicando <a href="https://www.linkedin.com/in/claudia-santos-1560a4230/" target="_blank"  class="links">aqui</a></h4> 
+          <h4>Visite meu linkedin clicando <a href="https://www.linkedin.com/in/claudia-santos-1560a4230/" target="_blank"  class="links">aqui</a> e meu Github <a href="https://github.com/anasantos-dev" target="_blank"  class="links">aqui</a></h4> 
 
         </form>
       </div>
